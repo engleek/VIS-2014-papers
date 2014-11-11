@@ -1470,7 +1470,8 @@
             "David J. Smith",
             "Anne Trefethen",
             "Jackson C. Kirkman-Brown",
-            "Eamonn A. Gaffney and Min Chen"
+            "Eamonn A. Gaffney",
+            "Min Chen"
           ],
           "title": "Glyph-Based Video Visualization for Semen Analysis",
           "video": "http://vimeo.com/102525333"
@@ -1564,7 +1565,8 @@
         },
         {
           "authors": [
-            "Victor Matvienko and Jens Kruger"
+            "Victor Matvienko",
+            "Jens Kruger"
           ],
           "title": "A Metric for the Evaluation of Dense Vector Field Visualizations",
           "video": "http://vimeo.com/103423477"
