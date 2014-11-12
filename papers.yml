@@ -1156,7 +1156,7 @@ tracks:
           - "James Abello"
           - "Steffen Hadlak"
           - "Heidrun Schumann"
-          - "and Hans-Jörg Schulz"
+          - "Hans-Jörg Schulz"
         title: "A Modular Degree-of-Interest Specification for the Visual Analysis of Large Dynamic Networks"
         video: "http://vimeo.com/102525330"
       - 
@@ -1226,7 +1226,7 @@ tracks:
         authors: 
           - "Harsh Bhatia"
           - "Valerio Pascucci"
-          - "and Peer-Timo Bremer"
+          - "Peer-Timo Bremer"
         title: "The Natural Helmholtz-Hodge Decomposition For Open-Boundary Flow Analysis"
         video: "http://vimeo.com/102525668"
       - 
@@ -1249,7 +1249,7 @@ tracks:
         authors: 
           - "Asmund Birkeland"
           - "Cagatay Turkay"
-          - "and Ivan Viola"
+          - "Ivan Viola"
         title: "Perceptually Uniform Motion Space"
         video: "http://vimeo.com/102527262"
       - 
@@ -1301,13 +1301,13 @@ tracks:
           - "Zahid Hossain"
           - "Quentin Ventura"
           - "Pourang Irani"
-          - "and Michael J. McGuffin"
+          - "Michael J. McGuffin"
         title: "The Impact of Interactivity on Comprehending 2D and 3D Visualizations of Movement Data"
       - 
         authors: 
           - "Sriram Karthik Badam"
           - "Eli Raymond Fisher"
-          - "and Niklas Elmqvist"
+          - "Niklas Elmqvist"
         title: "Munin: A Peer-to-Peer Middleware for Ubiquitous Analytics and Visualization Spaces"
         video: "http://vimeo.com/103884939"
     track: "TVCG Invited Papers"
